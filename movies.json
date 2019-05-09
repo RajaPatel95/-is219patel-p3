@@ -138,6 +138,20 @@
             "likes": 664,
             "dislikes": 141,
             "posterindex": 0
-      }
+      },
 
+      {
+            "title": "Ted",
+            "iscore": 6.9,
+            "rating": "R",
+            "runtime": 106,
+            "released": [2012, 6, 29],
+            "country": "USA",
+            "posters": ["img/ted.jpg"],
+            "imdb": "https://www.imdb.com/title/tt1637725",
+            "website": "https://www.facebook.com/ted",
+            "likes": 1008,
+            "dislikes": 120,
+            "posterindex": 0
+      },
 ]
