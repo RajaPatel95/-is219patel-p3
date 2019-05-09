@@ -55,34 +55,7 @@
             "dislikes": 127,
             "posterindex": 0
       },
-      {
-            "title": "Great Gatsby",
-            "iscore": 7.3,
-            "rating": "PG-13",
-            "runtime": 123,
-            "released": [2013, 5, 10],
-            "country": "USA",
-            "posters": ["img/gatsby.jpg", "img/gatsby2.jpg"],
-            "imdb": "https://www.imdb.com/title/tt1343092/?ref_=nv_sr_1?ref_=nv_sr_1",
-            "website": "https://www.warnerbros.com/movies/great-gatsby/",
-            "likes": 567,
-            "dislikes": 105,
-            "posterindex": 0
-      },
-            {
-            "title": "Aladdin",
-            "iscore": 8.0,
-            "rating": "G",
-            "runtime": 120,
-            "released": [1992, 11, 25],
-            "country": "USA",
-            "posters": ["img/aladdin.jpg", "img/aladdin2.jpg"],
-            "imdb": "https://www.imdb.com/title/tt0103639/?ref_=fn_al_tt_2",
-            "website": "https://movies.disney.com/aladdin",
-            "likes": 316,
-            "dislikes": 94,
-            "posterindex": 0
-      },
+      
             {
             "title": "The Avengers",
             "iscore": 8.9,
@@ -132,7 +105,7 @@
             "runtime": 106,
             "released": [2012, 6, 29],
             "country": "USA",
-            "posters": ["img/Ted.jpg"],
+            "posters": ["img/ted.jpg"],
             "imdb": "https://www.imdb.com/title/tt1637725",
             "website": "https://www.facebook.com/ted",
             "likes": 1008,
